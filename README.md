@@ -1,5 +1,5 @@
 # Cadastro-Ninja
-Desafio 02 do Curso Batismo em Java: 
+Desafio 03 do Curso Batismo em Java: 
 
 Crie um programa em Java para gerenciarinformações de ninjas utilizando herança. Desenvolva uma classe base chamada Ninja e uma subclasse chamada Uchiha.
 
